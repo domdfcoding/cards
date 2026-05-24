@@ -79,7 +79,71 @@ jobs:
           options: theme=default&locale=&show_owner=true&description_lines_count=2
           path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
+
+      - name: Generate cards for my repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: domdfcoding
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}          
+      
+      - name: Generate cards for repo-helper's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: repo-helper
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}          
+      
+      - name: Generate cards for sphinx-toolbox's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: sphinx-toolbox
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}          
+      
+      - name: Generate cards for python-coincidence's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: python-coincidence
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}          
      
+      - name: Generate cards for PyMassSpec's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: PyMassSpec
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}   
+      
+      - name: Generate cards for python-formate's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: python-formate
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}          
+      
+      - name: Generate cards for GunShotMatch's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: GunShotMatch
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}              
+     
+      - name: Generate cards for potbanksoftware's repositories (dark theme)
+        uses: domdfcoding/github-readme-stats-action@v2-all-repos
+        with:
+          username: potbanksoftware
+          options: theme=dark&locale=&show_owner=true&description_lines_count=2
+          path: dark
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
