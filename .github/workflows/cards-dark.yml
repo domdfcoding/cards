@@ -1,9 +1,11 @@
-name: Update README cards
+name: Update README cards (dark theme)
 
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches: [master]
 
 jobs:
   build:
