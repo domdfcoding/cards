@@ -19,7 +19,7 @@ jobs:
         with:
           username: domdfcoding
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
       
       - name: Generate cards for repo-helper's repositories
@@ -27,7 +27,7 @@ jobs:
         with:
           username: repo-helper
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
       
       - name: Generate cards for sphinx-toolbox's repositories
@@ -35,7 +35,7 @@ jobs:
         with:
           username: sphinx-toolbox
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
       
       - name: Generate cards for python-coincidence's repositories
@@ -43,7 +43,7 @@ jobs:
         with:
           username: python-coincidence
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
      
       - name: Generate cards for PyMassSpec's repositories
@@ -51,7 +51,7 @@ jobs:
         with:
           username: PyMassSpec
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}   
       
       - name: Generate cards for python-formate's repositories
@@ -59,7 +59,7 @@ jobs:
         with:
           username: python-formate
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
       
       - name: Generate cards for GunShotMatch's repositories
@@ -67,7 +67,7 @@ jobs:
         with:
           username: GunShotMatch
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}              
      
       - name: Generate cards for potbanksoftware's repositories
@@ -75,13 +75,13 @@ jobs:
         with:
           username: potbanksoftware
           options: theme=default&locale=&show_owner=true&description_lines_count=2
-          path: cards
+          path: .
           token: ${{ secrets.GITHUB_TOKEN }}          
      
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add cards/*.svg
+          git add *.svg
           git commit -m "Update README cards" || exit 0
           git push
