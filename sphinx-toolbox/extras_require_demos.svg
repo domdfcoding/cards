@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Demonstrations of the "extras_require" Sphinx extension.</tspan>
+      <tspan dy="1.2em" x="25">Demonstrations of the &#34;extras_require&#34; Sphinx extension.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

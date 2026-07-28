@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">PyMassSpec extension for searching mass spectra using</tspan><tspan dy="1.2em" x="25">NIST's Mass Spectrum Search Engine.</tspan>
+      <tspan dy="1.2em" x="25">PyMassSpec extension for searching mass spectra using</tspan><tspan dy="1.2em" x="25">NIST&#39;s Mass Spectrum Search Engine.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

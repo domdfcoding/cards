@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Remix of Adafruit's HalloWing Tombstone, with a Raspberry</tspan><tspan dy="1.2em" x="25">Pi Pico and a 1.8" ST7735 TFT display.</tspan>
+      <tspan dy="1.2em" x="25">Remix of Adafruit&#39;s HalloWing Tombstone, with a Raspberry</tspan><tspan dy="1.2em" x="25">Pi Pico and a 1.8&#34; ST7735 TFT display.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

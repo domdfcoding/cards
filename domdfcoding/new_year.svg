@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Script to play "In the Air Tonight" at midnight on New Year's</tspan><tspan dy="1.2em" x="25">Eve.</tspan>
+      <tspan dy="1.2em" x="25">Script to play &#34;In the Air Tonight&#34; at midnight on New Year&#39;s</tspan><tspan dy="1.2em" x="25">Eve.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

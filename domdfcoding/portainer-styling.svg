@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Customisation for portainer to hide environment variables</tspan><tspan dy="1.2em" x="25">and "Business Edition" nagware</tspan>
+      <tspan dy="1.2em" x="25">Customisation for portainer to hide environment variables</tspan><tspan dy="1.2em" x="25">and &#34;Business Edition&#34; nagware</tspan>
     </text>
 
     <g transform="translate(30, 65)">

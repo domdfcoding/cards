@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Fork of libvte 0.61.90 with Ubuntu 20.04's patches applied.</tspan>
+      <tspan dy="1.2em" x="25">Fork of libvte 0.61.90 with Ubuntu 20.04&#39;s patches applied.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

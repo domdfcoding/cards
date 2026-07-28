@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Modified fork of CPython's ast module that parses `# type:`</tspan><tspan dy="1.2em" x="25">comments</tspan>
+      <tspan dy="1.2em" x="25">Modified fork of CPython&#39;s ast module that parses `# type:`</tspan><tspan dy="1.2em" x="25">comments</tspan>
     </text>
 
     <g transform="translate(30, 65)">

@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Interactive session for 'repo_helper_github'.</tspan>
+      <tspan dy="1.2em" x="25">Interactive session for &#39;repo_helper_github&#39;.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

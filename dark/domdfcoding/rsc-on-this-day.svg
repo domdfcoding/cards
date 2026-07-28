@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Displays Royal Society of Chemistry "On This Day" facts.</tspan>
+      <tspan dy="1.2em" x="25">Displays Royal Society of Chemistry &#34;On This Day&#34; facts.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

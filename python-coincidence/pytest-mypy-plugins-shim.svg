@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Substitute for "pytest-mypy-plugins" for Python</tspan><tspan dy="1.2em" x="25">implementations which aren't supported by mypy.</tspan>
+      <tspan dy="1.2em" x="25">Substitute for &#34;pytest-mypy-plugins&#34; for Python</tspan><tspan dy="1.2em" x="25">implementations which aren&#39;t supported by mypy.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

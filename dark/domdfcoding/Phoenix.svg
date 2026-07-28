@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">wxPython's Project Phoenix. A new implementation of</tspan><tspan dy="1.2em" x="25">wxPython, better, stronger, faster than he was before.</tspan>
+      <tspan dy="1.2em" x="25">wxPython&#39;s Project Phoenix. A new implementation of</tspan><tspan dy="1.2em" x="25">wxPython, better, stronger, faster than he was before.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

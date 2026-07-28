@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Hi, I'm a library for interacting with GItHub's REST API in a</tspan><tspan dy="1.2em" x="25">convenient and ergonomic way. I work on Python 2.7, 3.4,...</tspan>
+      <tspan dy="1.2em" x="25">Hi, I&#39;m a library for interacting with GItHub&#39;s REST API in a</tspan><tspan dy="1.2em" x="25">convenient and ergonomic way. I work on Python 2.7, 3.4,...</tspan>
     </text>
 
     <g transform="translate(30, 65)">

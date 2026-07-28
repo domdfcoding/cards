@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Extension to flake8-rst-docstrings to filter out warnings</tspan><tspan dy="1.2em" x="25">related to Sphinx's built in options.</tspan>
+      <tspan dy="1.2em" x="25">Extension to flake8-rst-docstrings to filter out warnings</tspan><tspan dy="1.2em" x="25">related to Sphinx&#39;s built in options.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

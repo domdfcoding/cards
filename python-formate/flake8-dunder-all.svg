@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A Flake8 plugin and pre-commit hook which checks to</tspan><tspan dy="1.2em" x="25">ensure modules have defined '__all__'.</tspan>
+      <tspan dy="1.2em" x="25">A Flake8 plugin and pre-commit hook which checks to</tspan><tspan dy="1.2em" x="25">ensure modules have defined &#39;__all__&#39;.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

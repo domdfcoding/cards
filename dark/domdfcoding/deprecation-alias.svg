@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A wrapper around 'deprecation' providing support for</tspan><tspan dy="1.2em" x="25">deprecated aliases.</tspan>
+      <tspan dy="1.2em" x="25">A wrapper around &#39;deprecation&#39; providing support for</tspan><tspan dy="1.2em" x="25">deprecated aliases.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

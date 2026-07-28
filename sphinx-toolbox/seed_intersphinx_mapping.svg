@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Populate the Sphinx 'intersphinx_mapping' dictionary from</tspan><tspan dy="1.2em" x="25">the project's requirements.</tspan>
+      <tspan dy="1.2em" x="25">Populate the Sphinx &#39;intersphinx_mapping&#39; dictionary from</tspan><tspan dy="1.2em" x="25">the project&#39;s requirements.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
